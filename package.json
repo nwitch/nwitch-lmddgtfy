@@ -15,6 +15,6 @@
     "LICENSE.txt"
   ],
   "dependencies": {
-    "behest": "^0.0.2"
+    "behest": "^1.0.0"
   }
 }
