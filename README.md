@@ -1,6 +1,6 @@
 # nwitch-lmddgtfy
 
-[![Dependency Status](https://gemnasium.com/nwitch/nwitch-lmddgtfy.svg)](https://gemnasium.com/nwitch/nwitch-lmddgtfy)
+[![Dependency Status](https://img.shields.io/gemnasium/nwitch/nwitch-lmddgtfy.svg)](https://gemnasium.com/nwitch/nwitch-lmddgtfy)
 
 nwitch plugin for [lmddgtfy](https://lmddgtfy.net/).
 
