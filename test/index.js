@@ -27,7 +27,7 @@ test('replies when commanded', function(t) {
         break;
       case 1:
         t.equal(chunk, 'PRIVMSG #nwitch :KenanY: ' +
-                       'https://lmddgtfy.net/?q=how+do+i+javascript');
+                       'https://lmddgtfy.net/?q=how+do+i+javascript\r\n');
         break;
     }
   });
