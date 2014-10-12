@@ -17,6 +17,9 @@
   "directories": {
     "test": "test"
   },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
   "dependencies": {
     "behest": "^1.0.0"
   },
