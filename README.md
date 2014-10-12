@@ -1,5 +1,6 @@
 # nwitch-lmddgtfy
 
+[![Build Status](https://img.shields.io/travis/nwitch/nwitch-lmddgtfy.svg)](https://travis-ci.org/nwitch/nwitch-lmddgtfy)
 [![Dependency Status](https://img.shields.io/gemnasium/nwitch/nwitch-lmddgtfy.svg)](https://gemnasium.com/nwitch/nwitch-lmddgtfy)
 
 nwitch plugin for [lmddgtfy](https://lmddgtfy.net/).
