@@ -14,6 +14,9 @@
     "index.js",
     "LICENSE.txt"
   ],
+  "directories": {
+    "test": "test"
+  },
   "dependencies": {
     "behest": "^1.0.0"
   },
